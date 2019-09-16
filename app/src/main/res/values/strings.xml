@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieCatalogueConsumer</string>
+    <string name="title_movie" translatable="false">Movie</string>
+    <string name="title_tvshow" translatable="false">Tv Show</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="poster_image" translatable="false">Poster Image</string>
+    <string name="no_favorites_yet">No favorites yet</string>
+</resources>
